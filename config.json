@@ -1,0 +1,17 @@
+{
+    "locations": [
+        {
+            "state_id": 9,
+            "state_name": "Delhi"
+        },
+        {
+            "state_id": 12,
+            "state_name": "Haryana"
+        }
+    ],
+    "urls": {
+        "base_url": "https://cdn-api.co-vin.in/api/v2",
+        "districts": "/admin/location/districts",
+        "calendarByDistrict": "/appointment/sessions/public/calendarByDistrict"
+    }
+}
